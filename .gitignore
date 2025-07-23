@@ -1,0 +1,24 @@
+# Bytecode & caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+
+# Large model files
+*.pt
+*.pth
+
+# Auto-generated results
+saved_images/
+runs/
+*.jpg
+*.png
+
+# IDE / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

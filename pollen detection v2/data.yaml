@@ -1,0 +1,13 @@
+train: C:\python project\pollen detection v2\train\images
+val: C:\python project\pollen detection v2\valid\images
+test: C:\python project\pollen detection v2\test\images
+
+nc: 1
+names: ['pollen']
+
+roboflow:
+  workspace: male-and-female-cannabis-plants
+  project: gender2-jfgly-xzdwy
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/male-and-female-cannabis-plants/gender2-jfgly-xzdwy/1
